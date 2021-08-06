@@ -295,8 +295,6 @@ void title()	 // to draw the starting screen
 	drawstring(5.0, 24.0, "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~", 6);
 	drawstring(5.0, 22.0, "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~", 6);
 
-	drawstring(20.0, 10.0, "SUBMITTED   BY", 0);
-	drawstring(20.0, 8.0, "NAME: V R ROHITH", 0);
 	drawstring(2.0, 2.0, "*  *LEFT CLICK THE MOUSE TO CONTINUE*  *", 3);
 	glFlush();
 }
